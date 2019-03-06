@@ -1,0 +1,12 @@
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\bin\Debug\CardClasses.dll
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\bin\Debug\CardClasses.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.csprojAssemblyReference.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.dll
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.pdb
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\bin\Debug\CardClasses.dll
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\bin\Debug\CardClasses.pdb
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.csprojAssemblyReference.cache
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.dll
+E:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\MemoryFilenameInTagDone\CardClasses\obj\Debug\CardClasses.pdb

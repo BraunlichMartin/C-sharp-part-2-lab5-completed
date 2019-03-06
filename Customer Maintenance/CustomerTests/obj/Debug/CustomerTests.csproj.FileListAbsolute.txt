@@ -1,0 +1,10 @@
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csprojAssemblyReference.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csproj.CoreCompileInputs.cache
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.exe.config
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerMaintenanceClasses.dll
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerMaintenanceClasses.pdb
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csproj.CopyComplete
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.exe
+F:\Lane community college programs\classes starting 2019-1-7 winter\C sharp part 2\week 6\labs4and5-BraunlichMartin-master\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.pdb
